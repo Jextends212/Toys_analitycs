@@ -1,0 +1,62 @@
+
+En este ejercicio de analisis de datos se pide ingresar a una BD en mySQL
+descargar la informacion de la tabla SALES y realizar:
+
+********************************************************************************
+El problema principal que enfrentamos como empresa de juguetes es la necesidad
+de optimizar las operaciones de ventas y anticipar la demanda de 
+productos para garantizar un inventario adecuado, evitar pérdidas de ventas debido
+a la falta de existencias y mejorar la satisfacción del cliente.
+**********************************************************************************
+Preguntas Derivadas:
+
+Pregunta de Previsión de Demanda:
+
+¿Cómo podemos prever la demanda de juguetes para los próximos meses?
+¿Existen patrones estacionales en las ventas de juguetes que debamos tener en cuenta?
+Pregunta de Desempeño del Producto:
+
+¿Cuáles son los productos más vendidos y menos vendidos?
+¿Qué características de un producto (precio, tipo, tamaño) están más correlacionadas con
+las ventas?
+Pregunta de Eficiencia Operativa:
+
+¿Cómo podemos mejorar la eficiencia en la cadena de suministro y reducir los costos
+ operativos?
+¿Hay patrones en el estado de los pedidos (Shipped, Cancelled, Other) que indiquen áreas
+ de mejora?
+Pregunta de Satisfacción del Cliente:
+
+¿Cómo afecta el tamaño del envío (small, medium, large) a la satisfacción del cliente?
+¿Existen correlaciones entre la puntualidad de los envíos y la satisfacción del cliente?
+Pregunta de Segmentación de Clientes:
+
+¿Podemos identificar segmentos específicos de clientes basados en su historial de compras?
+¿Cómo podemos personalizar la oferta para diferentes segmentos de clientes?
+Acciones para el Científico de Datos:
+
+Análisis Exploratorio de Datos (EDA):
+
+Explorar patrones y tendencias en las ventas a lo largo del tiempo.
+Identificar productos más vendidos, correlaciones entre variables y áreas de oportunidad.
+Modelos de Pronóstico:
+
+Utilizar modelos de series temporales para prever la demanda futura.
+Implementar modelos de regresión para entender qué impulsa las ventas de productos.
+Optimización de Operaciones:
+
+Aplicar técnicas de optimización para mejorar la gestión de inventario y reducir costos
+ operativos.
+Análisis de Satisfacción del Cliente:
+
+Realizar análisis de sentimientos en comentarios de clientes (si están disponibles).
+Evaluar la relación entre el tamaño del envío y la satisfacción del cliente.
+Segmentación y Personalización:
+
+Aplicar técnicas de segmentación de clientes para identificar perfiles de compra.
+Desarrollar estrategias personalizadas de marketing y ventas para diferentes segmentos.
+Producto Final:
+
+Generar un dashboard interactivo en Tableau o PowerBI que permita a los directivos
+ de la empresa monitorear en tiempo real las métricas clave, visualizar patrones
+  y tomar decisiones informadas para mejorar la eficiencia y rentabilidad del negocio.
